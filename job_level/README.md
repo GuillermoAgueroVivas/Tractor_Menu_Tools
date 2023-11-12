@@ -1,5 +1,6 @@
 # Index
-This repository contains all the tools I have created to be able to assist others utilizing the online Tractor interface. It is all divided by Job Level and Task Level according to what each tool does.
+This repository contains all the tools I have created at the Job Level for Tractor. Here is a brief explanation of what each tool does.
 
-- **after_jobs_info_getter.py** means these tools would should show up in Tractor (after being added to the corresponding 'menus.config' file) when the user right-clicks on a Tractor Job.
-- **Task Level** means these tools would should show up in Tractor when the user right-clicks on a Task within a Tractor Job.
+- **after_jobs_info_getter.py** : Obtains all the i
+- **get_jids.py** 
+- **shotgrid_url_getter.py**
