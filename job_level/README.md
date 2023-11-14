@@ -8,11 +8,11 @@ This repository contains all the tools I have created at the Job Level for Tract
   - setup(jobs):
     Retrieves and formats job information for display.
 
-    table_html_creator(afterjids_job_info, main_afterjid_check, awa_message):
-Creates and formats HTML tables based on the job information provided.
+  - table_html_creator(afterjids_job_info, main_afterjid_check, awa_message):
+    Creates and formats HTML tables based on the job information provided.
 
-html_creation(tables_html):
-Generates the final HTML by combining the tables and adding styling.
+  - html_creation(tables_html):
+    Generates the final HTML by combining the tables and adding styling.
 
 Main Execution:
 
