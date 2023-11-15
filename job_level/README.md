@@ -24,5 +24,3 @@ HTML and Styling:
 
 The HTML content includes styling for tables, colors for different statuses (Erred, Completed, Active), and messages at the bottom indicating the status of jobs.
 JavaScript is used to resize the window.
-
-**shotgrid_url_getter.py** :
