@@ -1,5 +1,5 @@
 # Index
-This repository contains the tools I have created at the Job Level for Tractor. Here is a brief explanation of what each tool does.
+This repository contains a tool I created at the Job Level for Tractor. Here is a brief explanation of what the tool does.
 
 **after_jobs_info_getter.py** :
 
