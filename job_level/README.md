@@ -1,5 +1,5 @@
 # Index
-This repository contains all the tools I have created at the Job Level for Tractor. Here is a brief explanation of what each tool does.
+This repository contains the tools I have created at the Job Level for Tractor. Here is a brief explanation of what each tool does.
 
 **after_jobs_info_getter.py** :
 
@@ -25,5 +25,4 @@ HTML and Styling:
 The HTML content includes styling for tables, colors for different statuses (Erred, Completed, Active), and messages at the bottom indicating the status of jobs.
 JavaScript is used to resize the window.
 
-**get_jids.py** 
-**shotgrid_url_getter.py**
+**shotgrid_url_getter.py** :
