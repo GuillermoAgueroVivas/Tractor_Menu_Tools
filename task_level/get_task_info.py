@@ -9,11 +9,11 @@ from tabulate import tabulate  # module for table creating
 import requests
 from scipy import stats
 
+# In this case, this code makes use of the follwowing folders to import
+# a specific set of 
 sys.path.extend(['/sw/pipeline/rendering/renderfarm-tools',
                  '/sw/pipeline/rendering/renderfarm-reporting'])
 from reporting_tools import reporting_tools as rt
-
-# Author Byrd Wu
 
 # This script will generate HTML containing tables with important data related
 # to the provided task and show up on a pop-up page in Tractor.
